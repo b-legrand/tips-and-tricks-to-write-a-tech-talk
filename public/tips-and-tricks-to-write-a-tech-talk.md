@@ -37,14 +37,18 @@ Notes:
 - BDX.io
 - Devfest Strasbourg
 - Angular Devs France
+- Touraine Tech
+- NG-DE (Bonn, Allemagne)
 ```
 Notes:
-- j'en ai fait plein certes en tant que speaker, ce slide est pas là pour me vanter
-- mais du coup j'en ai vu encore plus en tant que public
+- j'en ai fait plein certes en tant que speaker, ce slide est juste là pour me vanter
+- mais du coup j'en ai vu encore plus en tant que public, chaque fois que j'y vais.
 - et c'est de ça que je veux parler aujourd'hui, comment faire une conf qui moi m'aurait intéressé
 
 
 ### Comment qu'on fait ?
+Notes:
+- En fait c'est plutôt comment "je" fais
 
 
 ### Comment je fais ?
@@ -69,8 +73,8 @@ Notes:
 
 
 ### Abstract !== Plan 
-- organisation en grandes parties
-- plus ou moins 7
+- organisation en grandes parties<!-- .element: class="fragment" -->
+- plus ou moins 7<!-- .element: class="fragment" -->
 
 Notes:
 - synthétisez votre discours (vous l'avez déjà fait si vous avez un abstract)
@@ -103,15 +107,6 @@ Notes:
 Notes:
 - Dan harmon ( community, rick & morty )
 
-- In A Zone of Comfort
-- They Desire Something
-- Enter An Unfamiliar Situation
-- Adapt to The Situation
-- Get What They Desired
-- Pay a Heavy Price for Winningh
-- A Return to Their Familiar Situation
-- They Have Overall Changed
-
 
 #### En vrai: OSEF
 
@@ -123,6 +118,8 @@ Notes:
 Notes:
 - en vrai, OSEF des deux autres, il n'y a pas que ça, trouvez votre structure
 - ca se voit
+- mais ca aide beaucoup
+- pas la seule manière de faire un talk
 
 
 #### Inception
@@ -173,7 +170,8 @@ Notes:
 - conclusion
 ```
 Notes:
-- on prends les grosses parties, puis tapage au kiloétre
+- on prends les grosses parties, puis tapage au kilométre
+- toujours en gardant l'histoire des plus ou moins 7 en tête
 
 
 #### We can go deeper
@@ -196,6 +194,10 @@ Notes:
   - frappe kilometre
 ```
 
+Notes:
+- 1er niveau : grandes parties
+- 2nd niveau : sous-parties ou slides
+- 3e : slides ou bullet-points
 
 
 ### Reveal.js
@@ -299,10 +301,9 @@ Notes:
 
 - 📋 Liste à puces<!-- .element: class="fragment" -->
 - 🥰 Emojis<!-- .element: class="fragment" -->
-- 🚭 Pas plus de trois<!-- .element: class="fragment" -->
+- 🚭 Pas plus de trois puces<!-- .element: class="fragment" -->
 - 👻 Apparition !<!-- .element: class="fragment" -->
 - 🤥 J'ai menti<!-- .element: class="fragment" -->
-
 
 Notes:
 - pas plus de trois idées par slide
@@ -450,10 +451,17 @@ Notes:
 - ca ou pointeur laser
 
 
-#### animations = attention
-- perte d'attention
-- les gifs animés
+#### Contraste
+<img src="/images/ngde-slide-contrast.png" />
 Notes:
+- question noir sur fond blanc ou blanc sur fond noir
+
+
+#### animations => attention !
+<img src="/images/danse-macabre.gif"/>
+Notes:
+- risque de perte d'attention
+- les gifs animés: à utiliser avec parcimonie
 - attention à ne pas détourner l'attention
 
 
@@ -603,6 +611,7 @@ Notes:
 
 
 ### gérer les questions du public
+- Vous avez le droit de ne pas les gérer.
 Notes:
 - ne pas les gérer
 - ne pas répondre
@@ -612,6 +621,7 @@ Notes:
 ### Ayez un plan B
 - on sait jamais
 Notes:
+- mon plan B c'est d'héberger mes slides en lignes
 - anectode bdx.io talk sur le RGPD
 - fini son talk au whiteboard
 
